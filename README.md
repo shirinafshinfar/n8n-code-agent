@@ -1,15 +1,1 @@
-# Installation
-
-برای نصب برنامه از دستور زیر استفاده کنید:
-
-```
-npm install
-```
-
-## Usage
-
-برنامه با دستور زیر اجرا شود:
-
-```
-npm strat
-```
+{{ $('Telegram Trigger1').item.json.message.text }}
